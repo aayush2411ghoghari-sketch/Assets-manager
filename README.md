@@ -9,6 +9,22 @@ A web-based **Assets & Inventory Management System** built with **PHP, MySQL, HT
 
 ---
 
+## 📸 Application Screenshots
+
+| Item Management | Inventory Search |
+| :---: | :---: |
+| ![Item Details](screenshots/item.PNG) | ![Search Inventory](screenshots/search.PNG) |
+
+| Sales Details | Customer Details |
+| :---: | :---: |
+| ![Sales Details](screenshots/sale.PNG) | ![Customer Details](screenshots/customer.PNG) |
+
+| Vendor Management |
+| :---: |
+| ![Vendor Details](screenshots/vendor.PNG) |
+
+---
+
 ## 🌟 Key Features
 
 - 📦 **Item & Asset Management**: Track product IDs, serial numbers, stock levels, unit pricing, discounts, and image attachments.
@@ -79,7 +95,7 @@ ASSETS_MANAGER/
 ├── data/            # Application data files
 ├── inc/             # Configuration, layout headers/footers, navigation
 ├── model/           # Core PHP business logic (CRUD operations & DataTables handlers)
-├── screenshots/     # Application visual previews
+├── screenshots/     # Application visual previews & UI screenshots
 ├── vendor/          # Frontend libraries (Bootstrap, jQuery, DataTables, etc.)
 ├── shop_inventory.sql # Database schema & seed data
 ├── index.php        # Main dashboard interface
